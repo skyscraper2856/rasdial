@@ -1,0 +1,27 @@
+{
+  "name": "rasdial",
+  "version": "1.0.0",
+  "description": "Rasdial for 3G connection for windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyscraper2856/rasdial.git"
+  },
+  "keywords": [
+    "rasdial",
+    "3g",
+    "dcom"
+  ],
+  "author": "skyscraper2856",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyscraper2856/rasdial/issues"
+  },
+  "homepage": "https://github.com/skyscraper2856/rasdial#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
